@@ -1,0 +1,1 @@
+ifort -w -mcmodel=large main_press_field_physical2_sym.f90 TFFT.f90 -o CTBL_sym3_xyk
